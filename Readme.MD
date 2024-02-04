@@ -59,11 +59,7 @@ For the backend server of the chat application, please refer to the [Chat Backen
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please open an issue or submit a pull request.
 
 Happy chatting! 🚀
-
-
-Make sure to replace `screenshots/screenshot1.png`, `screenshots/screenshot2.png`, and `screenshots/screenshot3.png` with the actual paths to your screenshots within the `screenshots` folder.
-
-Happy chatting! 🚀
+<!-- Happy chatting! 🚀 -->
 
 # Developer Profile
 
