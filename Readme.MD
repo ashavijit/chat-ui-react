@@ -61,7 +61,7 @@ Happy chatting! 🚀
   <div style="margin-left: 10px;">
     <p>
       <strong>Name:</strong> Avijit Sen<br>
-      <strong>Username:</strong> ashbijit<br>
+      <strong>Username:</strong> ashavijit<br>
       <strong>Email:</strong> avijitsen.me@gmail.com<br>
       <strong>Bio:</strong> Software Developer passionate about creating meaningful applications.
     </p>
