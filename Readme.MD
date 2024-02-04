@@ -1,4 +1,3 @@
-
 # Chat UI React
 
 Welcome to the Chat UI React repository! This frontend application is built using React for the user interface of the real-time chat application.
@@ -45,10 +44,24 @@ Welcome to the Chat UI React repository! This frontend application is built usin
 - **Bootstrap Integration**: Bootstrap is integrated for designing responsive and visually appealing UI components.
 - **WebSocket Communication**: SockJS-Client, Stomp-WebSocket, and StompJS are used for WebSocket communication, facilitating real-time messaging in the chat application.
 
+## Screenshots
+Here are some screenshots of the chat application:
+
+1. Chat Page
+![Chat Page](screenshot/Chat-1.png)
+
+2. Multimedia Transfer
+![Multimedia Transfer](screenshot/login-vid.gif)
+
 ## Backend Repository
 For the backend server of the chat application, please refer to the [Chat Backend](https://github.com/ashavijit/chat-backend) repository.
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please open an issue or submit a pull request.
+
+Happy chatting! 🚀
+
+
+Make sure to replace `screenshots/screenshot1.png`, `screenshots/screenshot2.png`, and `screenshots/screenshot3.png` with the actual paths to your screenshots within the `screenshots` folder.
 
 Happy chatting! 🚀
 
